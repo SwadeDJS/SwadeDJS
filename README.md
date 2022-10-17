@@ -1,3 +1,3 @@
 - Hi, I am Swade, a self taught discord bot developer. 
-- I am currently developing a bot called **Rainy**. 
-- Join my discord server for early access: 
+- What are my hobbies? Coding, Gaming, Studying & More!
+- I am currently developing a bot called **Rainy** Which is currently in Beta mode and is planned to release on the November 17th!
